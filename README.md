@@ -108,7 +108,8 @@ youtube-comment-analyzer/
 ├── main.py                    # Main Streamlit application
 ├── requirements.txt           # Python dependencies
 ├── .env                       # Your API keys (create this)
-├── .gitignore                 
+├── .gitignore
+├── utils.py                                  
 ├── README.md                  
 └── cache/                     # Cached data directory (auto-created)
 ```
